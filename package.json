@@ -1,0 +1,22 @@
+{
+  "name": "rony",
+  "version": "1.0.0",
+  "description": "game",
+  "main": "tictactoe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronysaif/tictactoe1.git"
+  },
+  "keywords": [
+    "rony"
+  ],
+  "author": "rony",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronysaif/tictactoe1/issues"
+  },
+  "homepage": "https://github.com/ronysaif/tictactoe1#readme"
+}
